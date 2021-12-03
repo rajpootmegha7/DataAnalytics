@@ -1,1 +1,1 @@
-Data Science Project Fall 2021
+Data Analytics Project Fall 2021
